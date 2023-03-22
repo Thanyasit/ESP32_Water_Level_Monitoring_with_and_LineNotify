@@ -40,6 +40,10 @@ This is an Arduino program that reads values from a HC-SR04 ultrasonic sensor an
 
 ## Example
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226973973-b07ae5b3-1437-434a-a61c-c55a992e7ea1.JPG" width="500">
+</p>
+
 
 <h2>License</h2>
 This code is licensed under the MIT License. See the LICENSE file for details.
