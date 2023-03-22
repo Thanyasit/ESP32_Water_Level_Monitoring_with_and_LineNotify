@@ -37,5 +37,15 @@ This is an Arduino program that reads values from a HC-SR04 ultrasonic sensor an
 - The program is currently hard-coded to send notifications every 15 minutes. This can be changed by modifying the <b>'ckm'</b> variable.<br>
 - The program uses the HC-SR04 sensor to measure distance, which has limitations in terms of accuracy and range.<br>
 - The program may encounter issues with time synchronization if the NTP server is not reachable.<br>
+
+## Example
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226800543-61ceb1f3-acbc-4923-951a-6eef3c92322e.jpg" width="500">
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77733903/226800548-7f3613d3-3dd7-40c9-8a3b-49489d228c34.jpg" width="500">
+</p>
+
 <h2>License</h2>
 This code is licensed under the MIT License. See the LICENSE file for details.
